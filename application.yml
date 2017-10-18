@@ -9,5 +9,5 @@ management:
 logging:
   level:
     io:
-      pivotal: INFO
+      pivotal: DEBUG
 
